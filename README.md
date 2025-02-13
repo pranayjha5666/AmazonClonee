@@ -69,6 +69,15 @@ Amazon Clone is a full-fledged e-commerce application that replicates the core f
    flutter run
    ```
 
+## Environment Variables (.env)
+Create a `.env` file in the root directory and add the following:
+
+```env
+RENDER_BACKEND_URL=your_render_backend_url
+CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
+CLOUDINARY_UPLOAD_PRESET=your_cloudinary_upload_preset
+```
+
 ## Future Enhancements
 - Add real-time order tracking.
 - Implement a review and rating system.
