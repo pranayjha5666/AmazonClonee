@@ -87,5 +87,4 @@ CLOUDINARY_UPLOAD_PRESET=your_cloudinary_upload_preset
 - **Pranay Jha** (Developer)
 
 ## License
-This project is for educational purposes only and does not intend to infringe on Amazon's trademarks.
-
+This project is for my educational purposes only .
