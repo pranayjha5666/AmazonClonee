@@ -54,7 +54,7 @@ Amazon Clone is a full-fledged e-commerce application that replicates the core f
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/amazon-clone.git
+   git clone https://github.com/pranayjha5666/amazonclone
    ```
 2. Navigate to the project folder:
    ```sh
